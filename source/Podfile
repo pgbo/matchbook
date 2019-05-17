@@ -1,0 +1,9 @@
+source 'https://github.com/CocoaPods/Specs.git' 
+
+platform :ios, '9.0'
+
+target 'matchbook' do
+	pod 'UIButton-SSEdgeInsets', '0.1.7'
+    pod 'YYImage'
+    pod 'UIApplication-ViewControllerHandy'
+end

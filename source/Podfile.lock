@@ -1,0 +1,20 @@
+PODS:
+  - UIApplication-ViewControllerHandy (1.0.0)
+  - UIButton-SSEdgeInsets (0.1.7)
+  - YYImage (1.0.4):
+    - YYImage/Core (= 1.0.4)
+  - YYImage/Core (1.0.4)
+
+DEPENDENCIES:
+  - UIApplication-ViewControllerHandy
+  - UIButton-SSEdgeInsets (= 0.1.7)
+  - YYImage
+
+SPEC CHECKSUMS:
+  UIApplication-ViewControllerHandy: 0a1a7586a5fdffc96856a50d948f07703e56ee71
+  UIButton-SSEdgeInsets: 64a600adc670d98e140ddcde1d0e64d7b952502c
+  YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
+
+PODFILE CHECKSUM: bd8f55dbf781832d101164818ff9aceb1ee754f2
+
+COCOAPODS: 1.2.1
