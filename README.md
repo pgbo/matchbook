@@ -9,6 +9,9 @@
 ### 预览 
 <img src="/docs/preview.gif" height="600" />
 
+### 项目结构图
+<img src="/docs/matchbook_projs.png" />
+
 ### 可以学习到
 - widget 开发
 - 模块化、组件化
