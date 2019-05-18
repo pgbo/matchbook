@@ -15,4 +15,4 @@
 ### 可以学习到
 - widget 开发
 - 模块化、组件化
-- 使用 JavaScriptCore 动态化一些经常改变的模块（项目中使用下发的javascript脚本解析比赛数据，达到动态化更新）
+- 使用 JavaScriptCore 和 native 交互（项目中使用下发的javascript脚本解析比赛数据html，以防数据格式变化要改变 native 代码的问题）
